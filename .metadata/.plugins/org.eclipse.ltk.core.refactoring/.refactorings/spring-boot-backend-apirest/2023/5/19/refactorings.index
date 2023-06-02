@@ -1,0 +1,51 @@
+1683421298934	Move compilation unit
+1683421338019	Move compilation unit
+1683422324683	Delete element
+1683447074431	Copy compilation unit
+1683447106923	Rename type 'RegionDTO'
+1683484193659	Rename type 'TipoProducto'
+1683701686255	Rename type 'Unidad'
+1683701701385	Rename type 'Marca'
+1683701713936	Rename type 'TipoProducto'
+1683702496480	Delete element
+1683702608201	Delete element
+1683703213626	Rename type 'ProductoMarca'
+1683703332281	Rename type 'ProductoMarcas'
+1683703608324	Delete element
+1683703864371	Rename type 'Prueba'
+1683703927801	Rename type 'ProductoTipo'
+1683703943904	Rename type 'ProductoUnidad'
+1683773148874	Copy file
+1683784967457	Rename type 'EmployeeCriteriaRepository'
+1683785024433	Move compilation unit
+1683785048426	Rename type 'EmployeePage'
+1683785098991	Rename type 'EmployeeSearchCriteria'
+1683786326273	Rename type 'ProductoService'
+1683786340874	Rename type 'ProductoServiceImpl'
+1683786535036	Rename compilation unit 'ProductoServiceI.java'
+1683786613743	Rename package 'com.rentas.springboot.backend.apirest.logistica.dao'
+1683786632103	Rename type 'ProductoDao'
+1683788395788	Delete element
+1683791110321	Delete element
+1683795464770	Move compilation units
+1683850396615	Delete element
+1683850405890	Delete element
+1683850415020	Delete elements
+1683850420292	Delete elements
+1683863810671	Copy compilation unit
+1683863888216	Copy compilation unit
+1683864061694	Copy compilation unit
+1683864220911	Copy compilation unit
+1683864425800	Copy compilation unit
+1683864965455	Copy compilation unit
+1683923549954	Copy compilation units
+1683923695744	Copy compilation units
+1683923826633	Copy compilation unit
+1683923933134	Copy compilation unit
+1683954830276	Copy compilation unit
+1683955309852	Copy compilation unit
+1683958596338	Rename type 'TipoProductoSelect'
+1683959263527	Rename type 'MarcaSelect'
+1683959275122	Rename type 'TipoSelect'
+1683959284223	Rename type 'RubroSelect'
+1683959293267	Rename type 'MonedaSelect'

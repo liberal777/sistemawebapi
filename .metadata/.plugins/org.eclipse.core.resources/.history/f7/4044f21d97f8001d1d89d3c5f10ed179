@@ -1,0 +1,11 @@
+package com.rentas.springboot.backend.apirest.logistica.models;
+
+public class CategoriaSearchCriteria {
+	private String categoriacodigo;
+    private String categoriadescripcion;
+    private String estado;
+    private Integer linea;
+    
+	 
+   
+}

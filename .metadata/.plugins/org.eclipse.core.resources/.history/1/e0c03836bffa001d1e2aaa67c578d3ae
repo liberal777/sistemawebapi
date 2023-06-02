@@ -1,0 +1,5 @@
+package com.rentas.springboot.backend.apirest.logistica.models;
+
+public class Entidad {
+
+}

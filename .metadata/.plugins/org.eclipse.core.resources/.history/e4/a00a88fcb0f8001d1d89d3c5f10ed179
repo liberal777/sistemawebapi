@@ -1,0 +1,39 @@
+package com.rentas.springboot.backend.apirest.logistica.models;
+
+public class ProductoSearchCriteria {
+    private String descripcion;
+    private String estadoid;
+    private Integer marcaid;
+    private Integer tipoid;
+	public String getDescripcion() {
+		return descripcion;
+	}
+	public void setDescripcion(String descripcion) {
+		this.descripcion = descripcion;
+	}
+	public String getEstadoid() {
+		return estadoid;
+	}
+	public void setEstadoid(String estadoid) {
+		this.estadoid = estadoid;
+	}
+	public Integer getMarcaid() {
+		return marcaid;
+	}
+	public void setMarcaid(Integer marcaid) {
+		this.marcaid = marcaid;
+	}
+	public Integer getTipoid() {
+		return tipoid;
+	}
+	public void setTipoid(Integer tipoid) {
+		this.tipoid = tipoid;
+	}
+    
+	 
+	 
+	 
+	 
+
+   
+}

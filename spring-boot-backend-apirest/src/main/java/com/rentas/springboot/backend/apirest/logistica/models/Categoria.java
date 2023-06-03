@@ -29,7 +29,6 @@ import lombok.Setter;
 public class Categoria implements Serializable {
   
 	private static final long serialVersionUID = 5368006744839683776L;
-
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
